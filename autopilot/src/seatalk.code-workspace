@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "/home/vitor/Works_arduino/autopilot"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cp": "cpp"
+		},
+		"editor.wordWrapColumn": 90,
+		"C_Cpp.clang_format_style": "Google",
+		"editor.fontSize": 13,
+		"markdown.preview.fontSize": 13,
+		"debug.console.fontSize": 13,
+		"terminal.integrated.fontSize": 13
+	}
+}
